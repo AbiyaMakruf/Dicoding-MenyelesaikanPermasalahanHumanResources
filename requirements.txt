@@ -1,0 +1,1 @@
+conda create --name proyek-human-resources python==3.9.15
