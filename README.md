@@ -1,5 +1,20 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+## Penilaian Proyek
+Proyek ini berhasil mendapatkan bintang 4/5 pada submission dicoding course Belajar Penerapan Data Science.
+
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-MenyelesaikanPermasalahanHumanResources/main/images/nilai.png" width="500">
+
+Kriteria tambahan yang saya kerjakan sehingga mendapat nilai terbaik:
+1. Memberikan beberapa rekomendasi action items untuk yang dapat diikuti oleh perusahaan untuk mencapai target mereka.
+2. Membuat visualisasi data yang baik dan efektif dengan menerapkan prinsip desain dan integritas.
+3. Membuat model machine learning untuk membantu departemen HR. Pastikan Anda membuat script Python sederhana untuk menjalankan proses prediksi.
+
+Kriteria tambahan yang tidak saya kerjakan:
+1. Membuat video singkat (maksimal 5 menit). Video tersebut harus menjelaskan beberapa poin berikut.
+    - Menjelaskan business dashboard yang telah dibuat.
+    - Menjelaskan kesimpulan atau conclusion dari dashboard tersebut.
+
 ## Business Understanding
 Jaya Jaya Maju merupakan perusahaan multinasional yang berdiri sejak tahun 2000, dengan lebih dari 1000 karyawan yang tersebar di seluruh negeri. Meskipun perusahaan ini telah berkembang menjadi cukup besar, mereka masih menghadapi tantangan signifikan dalam mengelola karyawannya. Salah satu dampak utama dari tantangan ini adalah tingginya *attrition rate*, yaitu rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan, yang mencapai lebih dari 10%. Tingginya *attrition rate* ini mengindikasikan adanya masalah dalam mempertahankan karyawan, yang dapat berdampak negatif pada produktivitas, biaya rekrutmen, dan stabilitas operasional perusahaan.
 
